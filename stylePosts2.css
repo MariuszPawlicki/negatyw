@@ -1,0 +1,39 @@
+.post {
+margin-bottom: 15px;
+width: 700px;
+background: #fff;
+}
+.postSeen {
+margin-bottom: 15px;
+width: 698px;
+background: #fff;
+border-right: 2px solid blue;
+}
+.newPost {
+margin-bottom: 15px;
+width: 365px;
+background: #fff;
+border-top: 2px solid gray;
+}
+.newPostSeen {
+width: 363px;
+background: #fff;
+border-top: 2px solid gray;
+border-right: 2px solid blue;
+}
+.title
+{
+margin: 10px;
+font-size: 20px;
+}
+.description
+{
+margin: 10px;
+font-size: 15px;
+}
+.authorName {
+float: left;
+}
+.imgUser {
+float: left;
+}

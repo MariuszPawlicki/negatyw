@@ -1,0 +1,7 @@
+.nButton {
+	float: left;
+}
+.nPressed {
+	float: left;
+	color: red;
+}
